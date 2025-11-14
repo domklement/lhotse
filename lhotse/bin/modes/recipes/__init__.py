@@ -93,6 +93,7 @@ from .timit import *
 from .uwb_atcc import *
 from .vctk import *
 from .voxceleb import *
+from .voxceleb_av import *
 from .voxconverse import *
 from .voxpopuli import *
 from .wenet_speech import *
